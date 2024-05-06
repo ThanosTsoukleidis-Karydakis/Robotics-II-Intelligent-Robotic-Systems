@@ -1,0 +1,10 @@
+<launch>
+
+   <!--rosparam file="$(find robo2_redundant)/yaml/parameters.yaml" command="load" /-->
+
+   <param name="rate" value="100"/>
+
+   <node name="follower" pkg="robo2_mobile" type="follower.py" output="screen" cwd="node" >
+   </node>
+
+</launch>
