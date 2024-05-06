@@ -6,4 +6,9 @@ For the simulation to be produced, **ROS** was used.
 
 ![image](https://github.com/ThanosTsoukleidis-Karydakis/Robotics-II-Intelligent-Robotic-Systems/assets/106911775/f4ca3d1a-542f-4fef-9375-54eb08a3a825)
 
-- **Semester Project 2A:**
+- **Semester Project 2A:** A simulation of a **Mobile Robot (differential drive)**. The objective is to implement
+a wall following algorithm, so that the robot can keep a fixed distance from the circular walls, while moving in
+parallel to them. For the simulation to be produced, **ROS** was used.
+
+![image](https://github.com/ThanosTsoukleidis-Karydakis/Robotics-II-Intelligent-Robotic-Systems/assets/106911775/4720a5c7-7399-4be0-a34f-897d0bfa20cf)
+
