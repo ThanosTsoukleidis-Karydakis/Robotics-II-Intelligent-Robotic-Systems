@@ -1,0 +1,11 @@
+<launch>
+
+   <!--rosparam file="$(find robo2_redundant)/yaml/parameters.yaml" command="load" /-->
+
+   <param name="rate" value="100"/>
+
+   <!--node name="kinematics" pkg="robo2_redundant" type="kinematics.py" output="screen" /-->
+   <node name="controller" pkg="robo2_redundant" type="controller.py" output="screen" cwd="node" >
+   </node>
+
+</launch>
