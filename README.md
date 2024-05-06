@@ -13,7 +13,7 @@ parallel to them. For the simulation to be produced, **ROS** was used.
 ![image](https://github.com/ThanosTsoukleidis-Karydakis/Robotics-II-Intelligent-Robotic-Systems/assets/106911775/4720a5c7-7399-4be0-a34f-897d0bfa20cf)
 
 - **Theoretical Exercises:** The solutions to the two groups of theoretical exercises that were assigned during
-the course. Contains exercises on **grippers**, **path planning**, **Kalman Filters** and more. 
+the course. Contains exercises on **grasping**, **path planning**, **Kalman Filters** and more. 
 
 ## Collaborators (for Semester Project 1 and Semester Project 2A) 
 - [Athanasios Tsoukleidis-Karydakis](https://github.com/ThanosTsoukleidis-Karydakis)  (el19009)
